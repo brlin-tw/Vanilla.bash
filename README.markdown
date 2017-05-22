@@ -43,7 +43,7 @@ Simply download Vanilla.bash, rename to any name you like, and start editing!
 The code is so trivial that even Bash newbies can easily comprehend, also it is pre-beautified and 80-column terminal-friendly with no space-tab indentation dilemma to deal with!
 
 ## 速度比較<br>Speed Comparison
-This is the runtime comparison of Vanilla.bash vs. GNU Bash Shell Script Template v1.26.0, the difference is greatly noticible:
+This is the runtime comparison of Vanilla.bash vs. [GNU Bash Shell Script Template](https://github.com/Lin-Buo-Ren/GNU-Bash-Shell-Script-Template) v1.26.0, the difference is greatly noticible:
 
 ```sh
 $ time ./vanilla.bash 
