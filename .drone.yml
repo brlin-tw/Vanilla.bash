@@ -67,5 +67,6 @@ steps:
         from_secret: github_api_token
       files:
         - '*.tar*'
-        - 'Vanilla.bash*'
+        - 'Vanilla.bash'
+        - 'Vanilla.bash.gz'
       title: '${DRONE_TAG##v}'
