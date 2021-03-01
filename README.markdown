@@ -1,10 +1,10 @@
 # Vanilla.bash
-Vanilla.bash* is a fast, lightweight, backward compatible template
+Vanilla.bash\* is a fast, lightweight, backward compatible template
 for building incredible, powerful GNU Bash applications.
 
 <https://github.com/Lin-Buo-Ren/Vanilla.bash>
 
-Who's using Vanilla.bash?  The following is just the small fraction of big companies** and distros that uses it:
+Who's using Vanilla.bash?  The following is just the small fraction of big companies\*\* and distros that uses it:
 
 * Ubuntu
 * Debian
@@ -29,7 +29,7 @@ Who's using Vanilla.bash?  The following is just the small fraction of big compa
 	* Various conditional and looping constructs
 	* Unicode
 	* Debugging utilities and stack trace printing
-	* Over 70*** of useful commands
+	* Over 70\*\*\* of useful commands
 	* and many more
 * Superior compatibility from Bash version 1.x to current 4.x, also any future releases as well****
 * Fast loading speed then any other alternatives
