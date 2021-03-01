@@ -5,7 +5,7 @@
 Vanilla.bash\* is a fast, lightweight, backward compatible template
 for building incredible, powerful GNU Bash applications.
 
-[![Indication badge of the Continuous Integration(CI) status](https://cloud.drone.io/api/badges/Lin-Buo-Ren/Vanilla.bash/status.svg "Continuous Integration(CI) status")](https://cloud.drone.io/Lin-Buo-Ren/Vanilla.bash) 
+[![Indication badge of the Continuous Integration(CI) status](https://cloud.drone.io/api/badges/Lin-Buo-Ren/Vanilla.bash/status.svg "Continuous Integration(CI) status")](https://cloud.drone.io/Lin-Buo-Ren/Vanilla.bash)
 
 Who's using Vanilla.bash?  The following is just the small fraction
 of big companies\*\* and distros that uses it:
