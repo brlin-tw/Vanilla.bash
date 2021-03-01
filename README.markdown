@@ -747,6 +747,6 @@ Public License instead of this License.  But first, please read
 ```
 * Inspired by Vanilla JS
 ** Not official statement
-*** run `help` for information, availability depends on your Bash installation
+*** Run `help` for information, availability depends on your Bash installation
 **** Assuming that `#`lines still considered as comment
 ```
