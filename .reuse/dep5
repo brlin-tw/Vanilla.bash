@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Vanilla.bash
+Upstream-Contact: 林博仁(Buo-ren, Lin) <https://github.com/Lin-Buo-Ren/Vanilla.bash/issues>
+Source: https://github.com/Lin-Buo-Ren/Vanilla.bash
+
+Files: README.md Vanilla.bash
+Copyright: 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+License: GPL-3.0-or-later
+
+# FIXME: Should be "CC-BY-SA-4.0+", but currently reuse-tool can't handle it
+Files: continuous-integration/*
+Copyright: 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+License: CC-BY-SA-4.0
