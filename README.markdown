@@ -22,7 +22,7 @@ Who's using Vanilla.bash?  The following is just the small fraction of big compa
 * Apple
 
 ##  特色<br>Features
-* Support for the following functionallity:
+* Support for the following functionality:
 	* Indexed and Associate Arrays
 	* Integrated command(s) for command-line parsing
 	* I/O operations
