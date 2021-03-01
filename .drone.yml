@@ -60,7 +60,7 @@ steps:
       event:
         - tag
     depends_on:
-      - Build product release archive
+      - Build product release artifacts
     image: plugins/github-release
     settings:
       api_key:
