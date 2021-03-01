@@ -44,7 +44,7 @@ steps:
     commands:
       - ./continuous-integration/static-code-analysis.sh
 
-  - name: Build product release archive
+  - name: Build product release artifacts
     when:
       event:
         - tag
@@ -53,6 +53,7 @@ steps:
     image: alpine:3.12
     commands:
       - ./continuous-integration/build-product-release-archive.sh
+      - ./continuous-integration/build-gzipped-vanilla-bash.sh
 
   - name: Deliver release artifacts
     when:
@@ -64,5 +65,7 @@ steps:
     settings:
       api_key:
         from_secret: github_api_token
-      files: '*.tar*'
+      files:
+        - '*.tar*'
+        - 'Vanilla.bash*'
       title: '${DRONE_TAG##v}'
