@@ -21,7 +21,7 @@ Who's using Vanilla.bash?  The following is just the small fraction of big compa
 * Microsoft
 * Apple
 
-##  特色<br>Features
+## Features
 * Support for the following functionality:
 	* Indexed and Associate Arrays
 	* Integrated command(s) for command-line parsing
@@ -37,12 +37,12 @@ Who's using Vanilla.bash?  The following is just the small fraction of big compa
 * CJK, space and special character path compatible
 * Bug and regression free, we even disabled our issue tracker because of it, no maintainance required!
 
-## 如何使用<br>Getting Started
+## Getting Started
 Simply download Vanilla.bash, rename to any name you like, and start editing!
 
 The code is so trivial that even Bash newbies can easily comprehend, also it is pre-beautified and 80-column terminal-friendly with no space-tab indentation dilemma to deal with!
 
-## 速度比較<br>Speed Comparison
+## Speed Comparison
 This is the runtime comparison of Vanilla.bash vs. [GNU Bash Shell Script Template](https://github.com/Lin-Buo-Ren/GNU-Bash-Shell-Script-Template) v1.26.0, the difference is greatly noticible:
 
 ```sh
@@ -57,16 +57,16 @@ user    0m0.038s
 sys     0m0.009s
 ```
 
-## 下載<br>Download
+## Download
 Go to the [releases page](https://github.com/Lin-Buo-Ren/Vanilla.bash/releases) to download Vanilla.bash(verbatim: 20bytes, compressed 140bytes).
 
-## 延伸閱讀<br>Further Reading
+## Further Reading
 * Check out the Vanilla.bash's online [documentation](https://www.gnu.org/software/bash/manual/).
 * Who needs online documentation when an offline one is already pre-install with your GNU/Linux distribution?
 	* `$ man vanilla bash`
 	* `$ info bash "(vanilla)"`
 
-## 授權條款<br>LICENSE
+## LICENSE
 ```
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
