@@ -1,10 +1,12 @@
 # Vanilla.bash
+
 Vanilla.bash\* is a fast, lightweight, backward compatible template
 for building incredible, powerful GNU Bash applications.
 
 <https://github.com/Lin-Buo-Ren/Vanilla.bash>
 
-Who's using Vanilla.bash?  The following is just the small fraction of big companies\*\* and distros that uses it:
+Who's using Vanilla.bash?  The following is just the small fraction
+of big companies\*\* and distros that uses it:
 
 * Ubuntu
 * Debian
@@ -22,52 +24,67 @@ Who's using Vanilla.bash?  The following is just the small fraction of big compa
 * Apple
 
 ## Features
+
 * Support for the following functionality:
-	* Indexed and Associate Arrays
-	* Integrated command(s) for command-line parsing
-	* I/O operations
-	* Various conditional and looping constructs
-	* Unicode
-	* Debugging utilities and stack trace printing
-	* Over 70\*\*\* of useful commands
-	* and many more
-* Superior compatibility from Bash version 1.x to current 4.x, also any future releases as well****
+    + Indexed and Associate Arrays
+    + Integrated command(s) for command-line parsing
+    + I/O operations
+    + Various conditional and looping constructs
+    + Unicode
+    + Debugging utilities and stack trace printing
+    + Over 70\*\*\* of useful commands
+    + and many more
+* Superior compatibility from Bash version 1.x to current 4.x, also
+  any future releases as well\*\*\*\*
 * Fast loading speed then any other alternatives
 * Lowest memory footage than other alternatives
 * CJK, space and special character path compatible
-* Bug and regression free, we even disabled our issue tracker because of it, no maintainance required!
+* Bug and regression free, we even disabled our issue tracker because
+  of it, no maintainance required!
 
 ## Getting Started
-Simply download Vanilla.bash, rename to any name you like, and start editing!
 
-The code is so trivial that even Bash newbies can easily comprehend, also it is pre-beautified and 80-column terminal-friendly with no space-tab indentation dilemma to deal with!
+Simply download Vanilla.bash, rename to any name you like, and start
+editing!
+
+The code is so trivial that even Bash newbies can easily comprehend,
+also it is pre-beautified and 80-column terminal-friendly with no
+space-tab indentation dilemma to deal with!
 
 ## Speed Comparison
-This is the runtime comparison of Vanilla.bash vs. [GNU Bash Shell Script Template](https://github.com/Lin-Buo-Ren/GNU-Bash-Shell-Script-Template) v1.26.0, the difference is greatly noticible:
+
+This is the runtime comparison of Vanilla.bash vs. [GNU Bash Shell
+Script Template](https://github.com/Lin-Buo-Ren/GNU-Bash-Shell-Script-Template)
+v1.26.0, the difference is greatly noticible:
 
 ```sh
-$ time ./vanilla.bash 
+$ time ./vanilla.bash
 real    0m0.004s
 user    0m0.000s
 sys     0m0.004s
 
-$ time ./Shell\ Script\(GNU\ Bash\).template.bash 
+$ time ./Shell\ Script\(GNU\ Bash\).template.bash
 real    0m0.045s
 user    0m0.038s
 sys     0m0.009s
 ```
 
 ## Download
-Go to the [releases page](https://github.com/Lin-Buo-Ren/Vanilla.bash/releases) to download Vanilla.bash(verbatim: 20bytes, compressed 140bytes).
+
+Go to the [releases page](https://github.com/Lin-Buo-Ren/Vanilla.bash/releases)
+to download Vanilla.bash(verbatim: 20bytes, compressed 140bytes).
 
 ## Further Reading
+
 * Check out the Vanilla.bash's online [documentation](https://www.gnu.org/software/bash/manual/).
-* Who needs online documentation when an offline one is already pre-install with your GNU/Linux distribution?
-	* `$ man vanilla bash`
-	* `$ info bash "(vanilla)"`
+* Who needs online documentation when an offline one is already
+  pre-installed in your GNU/Linux distribution?
+    + `$ man vanilla bash`
+    + `$ info bash "(vanilla)"`
 
 ## LICENSE
-```
+
+```license
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -744,7 +761,7 @@ Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 ```
 
-```
+```notes
 * Inspired by Vanilla JS
 ** Not official statement
 *** Run `help` for information, availability depends on your Bash installation
